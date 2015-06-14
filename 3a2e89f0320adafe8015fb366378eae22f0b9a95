@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "facab960_eecbfaa2",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1003174
+      },
+      "writtenOn": "2015-06-14T14:38:28Z",
+      "side": 1,
+      "message": "make it untranslatable",
+      "range": {
+        "startLine": 18,
+        "startChar": 2,
+        "endLine": 18,
+        "endChar": 71
+      },
+      "revId": "3a2e89f0320adafe8015fb366378eae22f0b9a95",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
